@@ -22,3 +22,7 @@ Each entity (customer, product, order, aisle, etc.) has an associated unique id.
 
 ## Conclusions:
 Due to limitations in the computer's memory, it was not possible to run more examples. However, it was possible to perceive certain patterns of purchases such as organic products accompanied by bananas, in addition to cold products such as yorgut which are often bought together. There is a pattern of products from the same department, such as organic food products, mostly fruits, always bought together with other food products. Just like flavored waters always bought together. Looking at the latest rules, the Banana appears, as seen previously, the Banana is frequent in the carts and still tends to be the first product to be added to the cart. This suggests that the market has a great demand for organic and healthy food products, as seen in the examples, these orders are protagonists in the market basket.
+
+[My Kaggle Profile](https://www.kaggle.com/katharinepires)
+
+[Linkedin](https://www.linkedin.com/in/katharine-pires-53b849155/)
